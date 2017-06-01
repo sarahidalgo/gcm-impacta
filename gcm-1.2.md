@@ -11,7 +11,7 @@
 <br>iOS 9
 <br>iOS 10
 
-<br># Versões Android
+# Versões Android
 
 <br>Android 1.6 - Donut
 <br>Android 2.1 - Eclair 
@@ -25,7 +25,7 @@
 <br>Android 6.0 - Marshmallow
 <br>Android 7.0 - Nougat
 
-<br># Versões Office - MS
+# Versões Office - MS
 
 <br>Office 4.x
 <br>Office 95
